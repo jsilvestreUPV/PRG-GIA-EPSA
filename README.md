@@ -29,6 +29,14 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
     7. [Matplotlib](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.7%20Matplotlib.ipynb)
     8. [Ejemplo de aplicación en IA](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.8%20Ejemplo%20de%20aplicación%20en%20IA.ipynb)
 
+2. Programación orientada a objetos
+
+3. Recursión
+
+4. Análisis de algoritmos: eficiencia, búsqueda y ordenación
+
+5. Estructuras de datos lineales
+
 ## Cómo usar los cuadernos
 
 Existen varias opciones para trabajar con los cuadernos de la asignatura:
