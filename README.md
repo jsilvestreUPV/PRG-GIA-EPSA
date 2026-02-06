@@ -25,8 +25,6 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
         - [Ejercicios](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4b%20Ejercicios.ipynb)
         - [Ejercicios resueltos](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4c%20Ejercicios%20resueltos.ipynb)
     5. [NumPy](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.5a%20NumPy.ipynb)
-        - [Ejercicios](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.5b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.5c%20Ejercicios%20resueltos.ipynb)
     6. [Pandas](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.6%20Pandas.ipynb)
     7. [Matplotlib](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.7%20Matplotlib.ipynb)
     8. [Ejemplo de aplicación en IA](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.8%20Ejemplo%20de%20aplicación%20en%20IA.ipynb)
