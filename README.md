@@ -101,7 +101,7 @@ Recomendamos usar un entorno virtual para aislar las dependencias del proyecto. 
     Si existe un fichero `requirements.txt`, VS Code puede ofrecer instalarlo. Si no, o para instalar manualmente:
     ```bash
     source .venv/bin/activate
-    pip install notebook ipykernel scikit-learn pandas seaborn openml numpy matplotlib
+    pip install scikit-learn pandas numpy matplotlib
     ```
 5.  **Seleccionar el kernel**:
     Abre cualquier cuaderno (`.ipynb`). Arriba a la derecha, haz clic en "Select Kernel" -> "Python Environments" -> selecciona el entorno `.venv` que acabas de crear.
