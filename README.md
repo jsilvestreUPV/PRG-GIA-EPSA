@@ -14,20 +14,20 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 1. Tipos de datos y librerías avanzados de Python
 
-    1. [Tipos de datos estándar](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.1%20Tipos%20de%20datos%20estándar.ipynb)
-    2. [Tuplas](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2a%20Tuplas.ipynb)
-        - [Ejercicios](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2c%20Ejercicios%20resueltos.ipynb)
-    3. [Conjuntos](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3a%20Conjuntos.ipynb)
-        - [Ejercicios](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3c%20Ejercicios%20resueltos.ipynb)
-    4. [Iteradores y Generadores](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4a%20Iteradores%20y%20Generadores.ipynb)
-        - [Ejercicios](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4c%20Ejercicios%20resueltos.ipynb)
-    5. [NumPy](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.5a%20NumPy.ipynb)
-    6. [Pandas](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.6%20Pandas.ipynb)
-    7. [Matplotlib](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.7%20Matplotlib.ipynb)
-    8. [Ejemplo de aplicación en IA](./T1:%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.8%20Ejemplo%20de%20aplicación%20en%20IA.ipynb)
+    1. [Tipos de datos estándar](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.1%20Tipos%20de%20datos%20estándar.ipynb)
+    2. [Tuplas](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2a%20Tuplas.ipynb)
+        - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2b%20Ejercicios.ipynb)
+        - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2c%20Ejercicios%20resueltos.ipynb)
+    3. [Conjuntos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3a%20Conjuntos.ipynb)
+        - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3b%20Ejercicios.ipynb)
+        - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3c%20Ejercicios%20resueltos.ipynb)
+    4. [Iteradores y Generadores](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4a%20Iteradores%20y%20Generadores.ipynb)
+        - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4b%20Ejercicios.ipynb)
+        - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4c%20Ejercicios%20resueltos.ipynb)
+    5. [NumPy](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.5a%20NumPy.ipynb)
+    6. [Pandas](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.6%20Pandas.ipynb)
+    7. [Matplotlib](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.7%20Matplotlib.ipynb)
+    8. [Ejemplo de aplicación en IA](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.8%20Ejemplo%20de%20aplicación%20en%20IA.ipynb)
 
 2. Programación orientada a objetos
 
