@@ -40,7 +40,7 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
     3. [Herencia y Polimorfismo](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3a%20Herencia%20y%20Polimorfismo.ipynb)
         - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3b%20Ejercicios.ipynb)
         - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3c%20Ejercicios%20resueltos.ipynb)
-    4. [Métodos especiales](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4a%20Métodos%20especiales.ipynb)
+    4. [Métodos especiales y Excepciones propias](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4a%20Métodos%20especiales%20y%20Excepciones%20propias.ipynb)
         - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4b%20Ejercicios.ipynb)
         - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4c%20Ejercicios%20resueltos.ipynb)
 
