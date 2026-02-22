@@ -50,6 +50,10 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 5. Estructuras de datos lineales
 
+### Prácticas
+
+- [Práctica 0: Entorno de trabajo](https://dsic.gitbook.io/prg-gia/p0)
+
 ## Cómo usar los cuadernos
 
 Existen varias opciones para trabajar con los cuadernos de la asignatura:
