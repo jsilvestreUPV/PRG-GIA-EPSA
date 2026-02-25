@@ -12,43 +12,43 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 ### Teoría
 
-1. Tipos de datos y librerías avanzados de Python
+#### T1. Tipos de datos y librerías avanzados de Python
 
-    1. [Tipos de datos estándar](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.1%20Tipos%20de%20datos%20estándar.ipynb)
-    2. [Tuplas](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2a%20Tuplas.ipynb)
-        - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2c%20Ejercicios%20resueltos.ipynb)
-    3. [Conjuntos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3a%20Conjuntos.ipynb)
-        - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3c%20Ejercicios%20resueltos.ipynb)
-    4. [Iteradores y Generadores](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4a%20Iteradores%20y%20Generadores.ipynb)
-        - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4c%20Ejercicios%20resueltos.ipynb)
-    5. [NumPy](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.5a%20NumPy.ipynb)
-    6. [Pandas](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.6%20Pandas.ipynb)
-    7. [Matplotlib](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.7%20Matplotlib.ipynb)
-    8. [Ejemplo de aplicación en IA](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.8%20Ejemplo%20de%20aplicación%20en%20IA.ipynb)
+1. [Tipos de datos estándar](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.1%20Tipos%20de%20datos%20estándar.ipynb)
+2. [Tuplas](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2a%20Tuplas.ipynb)
+    - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2c%20Ejercicios%20resueltos.ipynb)
+3. [Conjuntos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3a%20Conjuntos.ipynb)
+    - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.3c%20Ejercicios%20resueltos.ipynb)
+4. [Iteradores y Generadores](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4a%20Iteradores%20y%20Generadores.ipynb)
+    - [Ejercicios](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.4c%20Ejercicios%20resueltos.ipynb)
+5. [NumPy](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.5a%20NumPy.ipynb)
+6. [Pandas](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.6%20Pandas.ipynb)
+7. [Matplotlib](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.7%20Matplotlib.ipynb)
+8. [Ejemplo de aplicación en IA](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.8%20Ejemplo%20de%20aplicación%20en%20IA.ipynb)
 
-2. Programación orientada a objetos
+#### T2. Programación orientada a objetos
 
-    1. [Clases y Objetos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.1a%20Clases%20y%20Objetos.ipynb)
-        - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.1b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.1c%20Ejercicios%20resueltos.ipynb)
-    2. [Atributos, Métodos y Encapsulamiento](./T2.%20Programación%20Orientada%20a%20Objetos/T2.2a%20Atributos,%20Metodos%20y%20Encapsulamiento.ipynb)
-        - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.2b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.2c%20Ejercicios%20resueltos.ipynb)
-    3. [Herencia y Polimorfismo](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3a%20Herencia%20y%20Polimorfismo.ipynb)
-        - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3c%20Ejercicios%20resueltos.ipynb)
-    4. [Métodos especiales y Excepciones propias](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4a%20Métodos%20especiales%20y%20Excepciones%20propias.ipynb)
-        - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4b%20Ejercicios.ipynb)
-        - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4c%20Ejercicios%20resueltos.ipynb)
+1. [Clases y Objetos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.1a%20Clases%20y%20Objetos.ipynb)
+    - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.1b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.1c%20Ejercicios%20resueltos.ipynb)
+2. [Atributos, Métodos y Encapsulamiento](./T2.%20Programación%20Orientada%20a%20Objetos/T2.2a%20Atributos,%20Metodos%20y%20Encapsulamiento.ipynb)
+    - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.2b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.2c%20Ejercicios%20resueltos.ipynb)
+3. [Herencia y Polimorfismo](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3a%20Herencia%20y%20Polimorfismo.ipynb)
+    - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.3c%20Ejercicios%20resueltos.ipynb)
+4. [Métodos especiales y Excepciones propias](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4a%20Métodos%20especiales%20y%20Excepciones%20propias.ipynb)
+    - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4c%20Ejercicios%20resueltos.ipynb)
 
-3. Recursión
+#### T3. Recursión
 
-4. Análisis de algoritmos: eficiencia, búsqueda y ordenación
+#### T4. Análisis de algoritmos: eficiencia, búsqueda y ordenación
 
-5. Estructuras de datos lineales
+#### T5. Estructuras de datos lineales
 
 ### Prácticas
 
