@@ -59,20 +59,13 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 Existen varias opciones para trabajar con los cuadernos de la asignatura:
 
-### Opción a): Google Colab
-La opción más sencilla y rápida pasa por usar Google Colab. Necesitaréis una cuenta de Google y acceso a internet permanente (lo cual puede ser un inconveniente; ver opción c).
+### Opción 0): Github
 
-Para abrir los cuadernos de esta práctica:
+Desde [GitHub](https://github.com/jsilvestreUPV/prg-gia-epsa) podéis visualizar los cuadernos renderizados en HTML con un navegador. Suficiente para seguir las clases, estudiar o repasar. Pero no podréis editar los cuadernos ni ejecutar bloques de código. 
 
-1. Accede a [Google Colab](https://colab.research.google.com/).
-1. Ve a *"Archivo" > "Abrir cuaderno" > "GitHub"*.
-1. Escribe el usuario *jsilvestreUPV* y selecciona el repositorio *prg-gia-epsa*, o bien introduce directamente la URL de este repositorio.
-1. Haz click sobre el cuaderno que quieras abrir en Colab.
+### Opción a): Jupyter Notebook en Polilabs (DSIC-LINUX)
 
-Una vez abierto, podrás realizar modificaciones sobre el cuaderno, pero no podrás guardarlas. Si deseas guardar dichas modificaciones, deberás crear una copia local en tu cuenta de Google Drive. Para ello, ve a *"Archivo" > "Guardar una copia en Drive"*. Dicho notebook se almacenará en la carpeta *"Colab Notebooks"* de tu unidad de Google Drive.
-
-### Opción b): Jupyter Notebook en Polilabs
-Debéis acceder al escritorio LINUX de los PCs del laboratorio del DSIC, o bien al escritorio DSIC-LINUX de [Polilabs](https://polilabs.upv.es/) si os conectáis desde casa.
+Debéis acceder al escritorio DSIC-LINUX de [Polilabs](https://polilabs.upv.es/) si os conectáis desde casa.
 
 Una vez estéis dentro del escritorio de Ubuntu Mate:
 
@@ -87,7 +80,22 @@ Una vez estéis dentro del escritorio de Ubuntu Mate:
 1. Ejecutar Jupyter:
     + `jupyter notebook`
 
+### Opción b): Google Colab
+
+Necesitaréis una cuenta de Google y acceso a internet permanente (lo cual puede ser un inconveniente).
+
+Para abrir los cuadernos de esta práctica:
+
+1. Accede a [Google Colab](https://colab.research.google.com/).
+1. Ve a *"Archivo" > "Abrir cuaderno" > "GitHub"*.
+1. Escribe el usuario *jsilvestreUPV* y selecciona el repositorio *prg-gia-epsa*, o bien introduce directamente la URL de este repositorio.
+1. Haz click sobre el cuaderno que quieras abrir en Colab.
+
+Una vez abierto, podrás realizar modificaciones sobre el cuaderno, pero no podrás guardarlas. Si deseas guardar dichas modificaciones, deberás crear una copia local en tu cuenta de Google Drive. Para ello, ve a *"Archivo" > "Guardar una copia en Drive"*. Dicho notebook se almacenará en la carpeta *"Colab Notebooks"* de tu unidad de Google Drive.
+
+
 ### Opción c): Instalación local de Jupyter en vuestros PCs con kernel Python propio
+
 La tercera opción es realizar una instalación local de Jupyter Notebook y de un kernel Python3 propio.
 
 Instrucciones para GNU/Linux (Debian/Ubuntu):
@@ -101,14 +109,17 @@ Instrucciones para GNU/Linux (Debian/Ubuntu):
     `pip3 install notebook ipykernel scikit-learn pandas numpy matplotlib`
 5.  **Registrar kernel**:
     `python3 -m ipykernel install --user --name prg-venv`
-6.  **Lanzar Jupyter**: `jupyter notebook` y seleccionar el kernel `prg-venv`.
+6.  **Clonar el repositorio**: `git clone https://github.com/jsilvestreUPV/prg-gia-epsa.git`
+6.  **Lanzar Jupyter**: En el directorio raíz del repositorio, ejecutar `jupyter notebook` y seleccionar el kernel `prg-venv`.
 
 ### Opción d): Instalación local de Visual Studio Code / Antigravity
-Si utilizas un entorno de desarrollo como Visual Studio Code (o Antigravity), puedes ejecutar los cuadernos directamente.
 
-Recomendamos usar un entorno virtual para aislar las dependencias del proyecto. En Ubuntu Linux:
+Si utilizas un entorno de desarrollo como Visual Studio Code (o Antigravity), puedes editar y ejecutar los cuadernos directamente.
 
-1.  **Abrir el repositorio** en VS Code.
+Recomendamos usar un entorno virtual para aislar las dependencias del proyecto. 
+
+0.  **Clonar el repositorio**: p.e. `git clone https://github.com/jsilvestreUPV/prg-gia-epsa.git`
+1.  **Abrir el directorio raíz del repositorio** en VS Code.
 2.  **Abrir una terminal** en VS Code (Terminal > New Terminal).
 3.  **Crear el entorno virtual**:
     ```bash
@@ -116,7 +127,6 @@ Recomendamos usar un entorno virtual para aislar las dependencias del proyecto. 
     ```
     VS Code detectará el nuevo entorno y te preguntará si quieres usarlo para el workspace. Acepta.
 4.  **Instalar dependencias**:
-    Si existe un fichero `requirements.txt`, VS Code puede ofrecer instalarlo. Si no, o para instalar manualmente:
     ```bash
     source .venv/bin/activate
     pip install scikit-learn pandas numpy matplotlib
