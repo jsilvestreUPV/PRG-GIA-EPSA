@@ -52,7 +52,8 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 ### Prácticas
 
-- [Práctica 0: Entorno de trabajo](https://dsic.gitbook.io/prg-gia/p0)
+- [Práctica 0: Entorno de trabajo](https://dsic.gitbook.io/prg-gia/h/p0)
+- [Práctica 1: Tipos de datos avanzados y POO](https://dsic.gitbook.io/prg-gia/h/p1)
 
 ## Cómo usar los cuadernos
 
