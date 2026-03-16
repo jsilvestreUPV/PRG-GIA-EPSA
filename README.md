@@ -12,7 +12,7 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 ### Teoría
 
-#### T1. Tipos de datos y librerías avanzados de Python
+#### Tema 1. Tipos de datos y librerías avanzados de Python
 
 1. [Tipos de datos estándar](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.1%20Tipos%20de%20datos%20estándar.ipynb)
 2. [Tuplas](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.2a%20Tuplas.ipynb)
@@ -29,7 +29,7 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 7. [Matplotlib](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.7%20Matplotlib.ipynb)
 8. [Ejemplo de aplicación en IA](./T1.%20Tipos%20de%20datos%20avanzados%20en%20Python/T1.8%20Ejemplo%20de%20aplicación%20en%20IA.ipynb)
 
-#### T2. Programación orientada a objetos
+#### Tema 2. Programación orientada a objetos
 
 1. [Clases y Objetos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.1a%20Clases%20y%20Objetos.ipynb)
     - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.1b%20Ejercicios.ipynb)
@@ -44,11 +44,17 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
     - [Ejercicios](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4b%20Ejercicios.ipynb)
     - [Ejercicios resueltos](./T2.%20Programación%20Orientada%20a%20Objetos/T2.4c%20Ejercicios%20resueltos.ipynb)
 
-#### T3. Recursión
+#### Tema 3. Recursión
 
-#### T4. Análisis de algoritmos: eficiencia, búsqueda y ordenación
+1. [Conceptos, tipología, pila de llamadas y diseño](./T3.%20Recursión/T3.1%20Recursión:%20conceptos,%20tipología,%20pila%20de%20llamadas,%20diseño.ipynb)
+2. [Problemas de recursión](./T3.%20Recursión/T3.2a%20Problemas%20de%20recursión.ipynb)
+    - [Problemas resueltos](./T3.%20Recursión/T3.2b%20Problemas%20de%20recursión.ipynb)
+3. [Recursión sobre secuencias: recorrido y búsqueda](./T3.%20Recursión/T3.3%20Recursión%20sobre%20secuencias:%20recorrido%20y%20búsqueda.ipynb)
+4. [Recursión versus iteración](./T3.%20Recursión/T3.4%20Recursión%20versus%20iteración.ipynb)
 
-#### T5. Estructuras de datos lineales
+#### Tema 4. Análisis de algoritmos: eficiencia, búsqueda y ordenación
+
+#### Tema 5. Estructuras de datos lineales
 
 ### Prácticas
 
