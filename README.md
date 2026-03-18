@@ -48,8 +48,10 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 1. [Conceptos, tipología, pila de llamadas y diseño](./T3.%20Recursión/T3.1%20Recursión:%20conceptos,%20tipología,%20pila%20de%20llamadas,%20diseño.ipynb)
 2. [Problemas de recursión](./T3.%20Recursión/T3.2a%20Problemas%20de%20recursión.ipynb)
-    - [Problemas resueltos](./T3.%20Recursión/T3.2b%20Problemas%20de%20recursión.ipynb)
-3. [Recursión sobre secuencias: recorrido y búsqueda](./T3.%20Recursión/T3.3%20Recursión%20sobre%20secuencias:%20recorrido%20y%20búsqueda.ipynb)
+    - [Problemas resueltos](./T3.%20Recursión/T3.2b%20Problemas%20de%20recursión%20(soluciones).ipynb)
+3. [Recursión sobre secuencias: recorrido y búsqueda](./T3.%20Recursión/T3.3a%20Recursión%20sobre%20secuencias:%20recorrido%20y%20búsqueda.ipynb)
+    - [Ejercicios](./T3.%20Recursión/T3.3b%20Ejercicios%20de%20recursión%20sobre%20secuencias.ipynb)
+    - [Ejercicios resueltos](./T3.%20Recursión/T3.3c%20Ejercicios%20de%20recursión%20sobre%20secuencias%20(soluciones).ipynb)
 4. [Recursión versus iteración](./T3.%20Recursión/T3.4%20Recursión%20versus%20iteración.ipynb)
 
 #### Tema 4. Análisis de algoritmos: eficiencia, búsqueda y ordenación
