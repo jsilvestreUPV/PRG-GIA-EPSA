@@ -52,7 +52,8 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 3. [Recursión sobre secuencias: recorrido y búsqueda](./T3.%20Recursión/T3.3a%20Recursión%20sobre%20secuencias:%20recorrido%20y%20búsqueda.ipynb)
     - [Ejercicios](./T3.%20Recursión/T3.3b%20Ejercicios%20de%20recursión%20sobre%20secuencias.ipynb)
     - [Ejercicios resueltos](./T3.%20Recursión/T3.3c%20Ejercicios%20de%20recursión%20sobre%20secuencias%20(soluciones).ipynb)
-4. [Recursión versus iteración](./T3.%20Recursión/T3.4%20Recursión%20versus%20iteración.ipynb)
+4. [Funciones y métodos lanzadera](./T3.%20Recursión/T3.4%20Funciones%20y%20métodos%20lanzadera.ipynb)
+5. [Recursión versus iteración](./T3.%20Recursión/T3.5%20Recursión%20versus%20iteración.ipynb)
 
 #### Tema 4. Análisis de algoritmos: eficiencia, búsqueda y ordenación
 
