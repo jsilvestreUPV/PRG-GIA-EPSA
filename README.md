@@ -57,6 +57,8 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 #### Tema 4. Análisis de algoritmos: eficiencia, búsqueda y ordenación
 
+1. [Introducción y conceptos básicos](./T4.%20Análisis%20de%20algoritmos/T4.1%20Análisis%20de%20algoritmos:%20introducción%20y%20conceptos%20básicos.ipynb)
+
 #### Tema 5. Estructuras de datos lineales
 
 ### Prácticas
