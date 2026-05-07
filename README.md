@@ -62,6 +62,8 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
     - [Ejercicios](./T4.%20Análisis%20de%20algoritmos/T4.2b%20Ejercicios.ipynb)
     - [Ejercicios resueltos](./T4.%20Análisis%20de%20algoritmos/T4.2c%20Ejercicios%20resueltos.ipynb)
 3. [Análisis de algoritmos recursivos](./T4.%20Análisis%20de%20algoritmos/T4.3a%20Análisis%20de%20algoritmos%20recursivos.ipynb)
+    - [Ejercicios](./T4.%20Análisis%20de%20algoritmos/T4.3b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T4.%20Análisis%20de%20algoritmos/T4.3c%20Ejercicios%20resueltos.ipynb)
 4. Análisis de algoritmos de ordenación
 5. [Anexo I - Escribiendo expresiones matemáticas en markdown](./T4.%20Análisis%20de%20algoritmos/T4.5%20Anexo%20I%20-%20Escribiendo%20expresiones%20matemáticas%20en%20markdown.ipynb)
 
