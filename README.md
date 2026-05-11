@@ -74,6 +74,7 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 - [Práctica 0: Entorno de trabajo](https://dsic.gitbook.io/prg-gia/h/p0)
 - [Práctica 1: Tipos de datos avanzados y POO](https://dsic.gitbook.io/prg-gia/h/p1)
 - [Práctica 2: Diseño recursivo](https://dsic.gitbook.io/prg-gia/h/p2)
+- [Práctica 3: Análisis de algoritmos](https://dsic.gitbook.io/prg-gia/h/p3)
 
 ## Cómo usar los cuadernos
 
