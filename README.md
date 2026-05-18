@@ -71,6 +71,9 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 1. [Introducción y conceptos básicos](./T5.%20Estructuras%20de%20datos%20lineales/T5.1%20Introducción%20y%20conceptos%20básicos.ipynb)
 2. [Secuencias enlazadas](./T5.%20Estructuras%20de%20datos%20lineales/T5.2a%20Secuencias%20enlazadas.ipynb)
+3. Pilas
+4. Colas
+5. Listas
 
 ### Prácticas
 
