@@ -71,6 +71,8 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
 
 1. [Introducción y conceptos básicos](./T5.%20Estructuras%20de%20datos%20lineales/T5.1%20Introducción%20y%20conceptos%20básicos.ipynb)
 2. [Gestión de secuencias enlazadas](./T5.%20Estructuras%20de%20datos%20lineales/T5.2a%20Secuencias%20enlazadas.ipynb)
+    - [Ejercicios](./T5.%20Estructuras%20de%20datos%20lineales/T5.2b%20Ejercicios.ipynb)
+    - [Ejercicios resueltos](./T5.%20Estructuras%20de%20datos%20lineales/T5.2c%20Ejercicios%20Resueltos.ipynb)
 3. [Gestión de secuencias con memoria contigua](./T5.%20Estructuras%20de%20datos%20lineales/T5.3%20Gestión%20de%20secuencias%20con%20memoria%20contigua.ipynb)
 3. Pilas
 4. Colas
