@@ -74,9 +74,9 @@ Como complemento a los contenidos de esta asignatura, para profundizar en el len
     - [Ejercicios](./T5.%20Estructuras%20de%20datos%20lineales/T5.2b%20Ejercicios.ipynb)
     - [Ejercicios resueltos](./T5.%20Estructuras%20de%20datos%20lineales/T5.2c%20Ejercicios%20Resueltos.ipynb)
 3. [Gestión de secuencias con memoria contigua](./T5.%20Estructuras%20de%20datos%20lineales/T5.3%20Gestión%20de%20secuencias%20con%20memoria%20contigua.ipynb)
-3. [EDL Pila](./T5.%20Estructuras%20de%20datos%20lineales/T5.4%20EDL%20Pila.ipynb)
-4. Colas
-5. Listas
+4. [EDL Pila](./T5.%20Estructuras%20de%20datos%20lineales/T5.4%20EDL%20Pila.ipynb)
+5. [EDL Cola](./T5.%20Estructuras%20de%20datos%20lineales/T5.5%20EDL%20Cola.ipynb)
+6. [EDL Lista](./T5.%20Estructuras%20de%20datos%20lineales/T5.6%20EDL%20Lista.ipynb)
 
 ### Prácticas
 
