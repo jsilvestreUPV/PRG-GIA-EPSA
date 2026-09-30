@@ -1,6 +1,6 @@
 # Material docente de la asignatura Programación (PRG)
 
-Este repositorio contiene material docente de la asignatura Programación (PRG) del [Grado en Ingeniería de Datos e Inteligencia Artificial (GIA)](https://www.upv.es/titulaciones/GIAR-A/index-es.html) de [l'Escola Politècnica Superior d'Alcoi (EPSA)](https://www.upv.es/entidades/epsa/) de la [Universitat Politècnica de València (UPV)](https://www.upv.es/).
+Este repositorio contiene material docente de la asignatura Programación (PRG) del [Grado en Inteligencia Artificial (GIA)](https://www.upv.es/titulaciones/GIAR-A/index-es.html) de [l'Escola Politècnica Superior d'Alcoi (EPSA)](https://www.upv.es/entidades/epsa/) de la [Universitat Politècnica de València (UPV)](https://www.upv.es/).
 
 Este material docente se proporciona en forma de [cuadernos Jupyter](https://jupyter.org/), que combinan texto formateado (markdown) explicativo con código Python modificable y ejecutable. 
 
